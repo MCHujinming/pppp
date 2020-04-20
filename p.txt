@@ -1,0 +1,5 @@
+响应式布局：
+
+必带语句
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<!-- vieport：视窗  width=device=width：宽度等于设备宽度 然后初始缩放1.0 -->
